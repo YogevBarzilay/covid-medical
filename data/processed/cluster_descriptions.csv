@@ -1,0 +1,4 @@
+Cluster,Phenotype,Description
+0,Mild,"Low ICU rate, normal blood counts."
+1,Moderate,"Intermediate ICU risk, mixed biomarker profile."
+2,Severe/Critical,"Highest ICU risk, elevated Rods # (Left Shift), low Hemoglobin."

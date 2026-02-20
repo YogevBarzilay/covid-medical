@@ -32,4 +32,4 @@ flowchart LR
     classDef stage fill:#e6fffa,stroke:#2c7a7b,stroke-width:1px;
 ```
 
-This ERD and flow describe how the flat hospital CSV is mapped into logical entities (`Patient`, `Biomarkers`, `Phenotype`) and processed through the clinical ML pipeline (imputation → transformation → PCA → clustering → validation).
+This ERD and flow describe how the flat hospital CSV is mapped into logical entities (`Patient`, `Biomarkers`, `Phenotype`) and processed through the clinical ML pipeline (imputation → transformation → PCA → clustering → validation).## Analysis Notes: PCA components optimized for maximum variance.

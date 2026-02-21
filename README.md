@@ -66,3 +66,9 @@ The quantitative results reported in `docs/Stage2_Paper_Draft.md` are obtained b
 - The Random Forest performance metrics and feature importance plots are produced by `04_supervised_validation.ipynb`.
 
 Running these notebooks end‑to‑end will regenerate all tables and figures referenced in the paper draft and in any presentation slides.
+
+### 5. Contributors
+
+**Amit Filler** – Led the preprocessing pipeline (cohort selection, KNN imputation, QuantileTransformer), PCA–K‑Means phenotyping (K=3), statistical validation (Chi‑Square, Kruskal–Wallis), and supervised validation (Random Forest). Drove project restructuring, documentation, and the Stage 2 paper draft.
+
+**Yogev Hadad** – Initial project setup and exploratory data analysis. Contributed clustering experiments (Birch, HDBSCAN), preprocessing threshold updates, and final visualisations including the top‑features heatmap.

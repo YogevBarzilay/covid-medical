@@ -22,3 +22,4 @@ env/
 *.swp
 .DS_Store
 desktop.ini
+.mailmap

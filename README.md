@@ -106,6 +106,6 @@ Running the four main notebooks and the experiment notebooks regenerates all tab
 
 ## Contributors
 
-**Amit Filler** - Responsible for the end-to-end preprocessing pipeline, statistical validation (Chi‑Square, Kruskal-Wallis), and the final research paper.
+**Amit Filler** - Responsible for the end-to-end preprocessing pipeline, statistical and supervised validation (Chi‑Square, Kruskal‑Wallis, Random Forest), and the final research paper.
 
-**Yogev Hadad** - Focused on initial data exploration, advanced clustering experiments (Birch, HDBSCAN), and high-impact visualizations.
+**Yogev Hadad** - Focused on initial data exploration, clustering model selection (K-Means, GMM, Hierarchical), and high-impact visualizations.
